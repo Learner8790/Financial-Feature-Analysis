@@ -1,6 +1,6 @@
 # Project Report: A Quantitative Approach to Feature Selection and Return Prediction in the Indian Stock Market
 
-**Version:** 1.0
+**Version:** 1.0 \\
 **Author:** Mohan Sai Balusu
 
 ---
