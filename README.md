@@ -48,9 +48,7 @@ In quantitative finance, practitioners often face the "curse of dimensionality" 
 
 Our framework addresses this through **Recursive Feature Elimination with Cross-Validation (RFECV)**, which systematically identifies the optimal feature subset by:
 
-$$
-S^* = \arg\max_{S \subseteq F} \text{CV}_{\text{score}}(M(S))
-$$
+$$' S^* = \arg\max_{S \subseteq F} \text{CV}_{\text{score}}(M(S)) '$$
 
 Where $F$ represents the complete feature space, $S$ is a feature subset, and $M(S)$ is the model trained on subset $S$.
 
